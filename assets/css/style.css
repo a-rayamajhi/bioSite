@@ -46,8 +46,14 @@
 
 .custom-heading {
   font-size: 3em;
-  position: absolute;
-  margin: 2.5em 0 0 -0.4em;
+}
+
+.heading-1 {
+  margin-top: 2.5em;
+}
+
+.heading-2 {
+  margin: -62px 0px 0 22px;
 }
 
 .lorem-text {
@@ -126,12 +132,12 @@
 }
 
 .tab-info {
-  margin: 7em 0 0 8em;
+  margin: 7em 0 0 5em;
   padding-bottom: 1.5em;
 }
 
 .tab-info2 {
-  margin-top: 7em;
+  margin-top: 5em;
   padding: 2.5em 2.5em 3.5em;
   background-color: #ffffff;
 }
@@ -177,4 +183,8 @@ footer {
 .affix {
   top: 0;
   width: 100%;
+}
+
+.tab-hide {
+  display: none;
 }
