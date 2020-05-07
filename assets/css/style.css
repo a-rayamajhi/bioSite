@@ -111,11 +111,7 @@ body {
   font-style: bold;
   padding: 7px 0 9px;
   font-size: 21px;
-}
-
-.nav-text-ani {
   color: #b0b4be;
-  border-bottom: 2px solid #b0b4be;
 }
 
 .nav-text-second {
@@ -126,14 +122,11 @@ body {
 .active-comp {
   background-color: #b0b4be;
   cursor: pointer;
-}
-
-.nav-text-ani:hover {
   color: #1d1d1d;
-  border-bottom: 2px solid #1d1d1d;
+  color: #1d1d1d;
 }
 
-.tab1 {
+.tab {
   min-height: 47em;
 }
 
@@ -170,11 +163,6 @@ body {
   font-size: 42.7px;
   font-family: "Oswald", sans-serif;
   color: #1d1d1d;
-}
-
-.active-nav {
-  color: #1d1d1d;
-  border-bottom: 2px solid #1d1d1d;
 }
 
 footer {
