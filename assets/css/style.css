@@ -74,8 +74,13 @@ body {
   margin: -40px 0px 0 22px;
 }
 
-.lorem-text {
+.lorem-text,
+.section-bio .custom-text-1 {
   color: #c2c2c2;
+}
+
+.section-bio .heading-1 {
+  color: #d6d6d6;
 }
 
 .wrapper-carousel {
@@ -215,6 +220,7 @@ footer {
   align-items: center;
   height: 100%;
   margin-left: 30px;
+  color: #fff;
 }
 
 .section-career {
